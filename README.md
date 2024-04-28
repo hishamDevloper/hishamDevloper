@@ -1,21 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <style>
-        *{
-            padding: 0;
-            margin: 0;
-        }
-        body{
-            width: 100vw;
-            height: 100vh;
-            box-sizing: border-box;
-        }
-        .container{
-            background: url("/Readme/test.jpg");
+<div style="width:100vw;
+            height:100vh;
+            box-sizing: border-box;">
+    <div style="background:url('/Readme/test.jpg');
             background-position: center center;
             background-size: cover;
             background-blend-mode: screen; 
@@ -23,14 +9,11 @@
             justify-content: center;
             align-items: center;
             width: 100%;
-            height: 100%;
-        }
-        .Content{
-            text-align: center;
-            color: white;
-        }
-        pre{
-            margin: 20px;
+            height: 100%;">
+        <div style="text-align: center;
+            color: white;">
+            <h1>Hisham</h1>
+            <pre style=" margin: 20px;
             max-width: 100%;
             text-align: left;
             color: rgb(255, 255, 255);
@@ -41,15 +24,7 @@
             box-shadow: 0 4px 30px rgba(255, 255, 255, 0.1);
             backdrop-filter: blur(10px);
             -webkit-backdrop-filter: blur(10px);
-            border: 1px solid white;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="Content">
-            <h1>Hisham</h1>
-            <pre>
+            border: 1px solid white;">
                 My experience is in the field of programming applications and websites
                 
                 Professional developer He has extensive experience in the field of programming applications and websites, with
@@ -81,5 +56,4 @@
             </pre>
         </div>
     </div>
-</body>
-</html>
+</div>
