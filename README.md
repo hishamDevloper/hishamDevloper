@@ -1,7 +1,7 @@
 <div style="width:100vw;
             height:100vh;
             box-sizing: border-box;">
-    <div style="background:url('../test.jpg');
+    <div style="background:url('test.jpg');
             background-position: center center;
             background-size: cover;
             background-blend-mode: screen; 
