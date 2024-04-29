@@ -1,4 +1,4 @@
-<div style="width:100vw;height:100vh;box-sizing: border-box;">
+<div style="width:100vw;height:100vh;box-sizing: border-box;background:white;color:black;">
     <div style="display: flex;justify-content: center;align-items: center;width: 100%;height: 100%;">
         <div style="text-align: center;color: white;">
             <h1 style="text-align:center;">Hisham</h1>
