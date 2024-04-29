@@ -1,8 +1,4 @@
-<div style="width:100vw;height:100vh;box-sizing: border-box;background:white;color:black;">
-    <div style="display: flex;justify-content: center;align-items: center;width: 100%;height: 100%;">
-        <div style="text-align: center;color: white;">
-            <h1 style="text-align:center;">Hisham</h1>
-            <pre style="margin: 20px;max-width: 100%;text-align: left;color: rgb(255, 255, 255);text-wrap: wrap;padding: 10px;background: rgba(255, 255, 255, 0);border-radius: 16px;box-shadow: 0 4px 30px rgba(255, 255, 255, 0.1);backdrop-filter: blur(10px);-webkit-backdrop-filter: blur(10px);border: 1px solid white;">
+#Hisham
                 My experience is in the field of programming applications and websites
                 Professional developer He has extensive experience in the field of programming 
                 applications and websites, with
@@ -31,8 +27,4 @@
                     excellent communication skills and work well alone or in a team.
                   I am always looking for new opportunities to 
                   develop my skills and gain new experiences.  
-                  I am sure I will be a valuable addition to any team.  
-            </pre>
-        </div>
-    </div>
-</div>
+                  I am sure I will be a valuable addition to any team.
