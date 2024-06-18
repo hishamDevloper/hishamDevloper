@@ -1,5 +1,5 @@
-<div align="center">
-  <img height="500" src="./Egypt.jpg"  />
+<div align="center" style="border-raduis:20px;height:500;">
+  <img src="./Egypt.jpg"  />
 </div>
 #                                                                           Hisham
 My experience is in the field of programming applications and websites
