@@ -1,4 +1,4 @@
-<div align="center" style="border-raduis:20px;height:500;">
+<div align="center" style="border-raduis:20px;height:500;border:2px solid red;">
   <img src="./Egypt.jpg"  />
 </div>
 #                                                                           Hisham
