@@ -1,7 +1,3 @@
-<div align="center" style="border-raduis:20px;height:500;border:10px solid red;">
-  <img src="./Egypt.jpg"  />
-</div>
-
 # Hisham
 
 ## My experience is in the field of programming applications and websites
