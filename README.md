@@ -44,7 +44,7 @@
                   I am sure I will be a valuable addition to any team.
 ###
 
-<h3 align="left" style="background:#444;border:1px solid white">🛠 Language and tools</h3>
+<h3 align="left" bgcolor="red">🛠 Language and tools</h3>
 
 ###
 
